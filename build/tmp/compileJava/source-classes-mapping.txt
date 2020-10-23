@@ -1,0 +1,11 @@
+com/example/SampleApplication.java
+ com.example.SampleApplication
+com/example/fun/FunConfiguration.java
+ com.example.fun.FunConfiguration
+com/example/fun/FunController.java
+ com.example.fun.FunController
+ com.example.fun.FunController$FunResponse
+com/example/fun/FunType.java
+ com.example.fun.FunType
+com/example/fun/Fun.java
+ com.example.fun.Fun

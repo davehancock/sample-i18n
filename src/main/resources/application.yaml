@@ -1,0 +1,9 @@
+fun:
+  LOW:
+    name: "fun.low.name"
+    summary: "goodbye"
+  MED:
+    name: "fun.med.name"
+    summary: "jump, jump, jump, jump around"
+  HIGH:
+    name: "fun.high.name"
